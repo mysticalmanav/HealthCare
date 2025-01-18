@@ -1,15 +1,3 @@
-# Project Name
-
-A web application with React frontend and Flask backend for notebook functionality.
-
-## Project Structure
-
-```
-project/
-├── frontend/          # React application
-└── backend/          # Flask backend
-    └── app.py        # Main Flask application file
-```
 
 ## Requirements
 
