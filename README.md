@@ -1,4 +1,6 @@
-
+## team name = AG21
+## team leader = Gaurav Kumar
+## Project name = Clear Horizons
 ## Requirements
 
 ### Frontend
