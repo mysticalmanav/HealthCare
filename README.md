@@ -1,7 +1,6 @@
 ## Team name : AG21
 ## Team leader : Gaurav Kumar
 ## Project name : Clear Horizons
-
 ## Requirements
 
 ### Frontend
