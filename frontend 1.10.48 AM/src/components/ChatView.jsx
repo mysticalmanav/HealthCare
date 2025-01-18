@@ -99,7 +99,7 @@ const ChatView = ({thm}) => {
     
     try {
       const response = await axios.post(
-        'https://c195-35-227-4-55.ngrok-free.app/endpoint1',
+        'https://7d6c-34-139-40-14.ngrok-free.app/endpoint1',
         { prompt: req },
         {
           headers: {
