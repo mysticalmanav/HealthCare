@@ -44,7 +44,7 @@ python -m venv venv
   ```bash
   .\venv\Scripts\activate
   ```
-- On macOS/Linux:
+- On macOS/Linux: 
   ```bash
   source venv/bin/activate
   ```
